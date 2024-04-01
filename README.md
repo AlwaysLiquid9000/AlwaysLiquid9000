@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlwaysLiquid9000
 - 👀 I’m interested in blockchain development.
 - 🌱 I’m currently learning react.js. roadmap: After react, then learn ethers.js, then solidity, then start making evm apps.
-- 💞️ I’m looking to collaborate on blockchian development.
+- 💞️ I’m looking to collaborate on blockchain development.
 - 📫 How to reach me lizardfrontend@proton.me
 - 😄 Pronouns: human
 - ⚡ Fun fact: I hate javascript but keep learning more of it.  :/
